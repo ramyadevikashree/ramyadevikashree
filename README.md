@@ -1,7 +1,6 @@
-# Hi, I'm Devikashree K 👋
-
 <!-# Hi, I'm Devikashree K 👋
 
+# Hi, I'm Devikashree K 👋
 🎓 B.Tech IT Student @ NITK Surathkal  
 💻 Learning C Programming, Data Structures, OS basics  
 🌐 Interested in Software, Networking and Cloud  

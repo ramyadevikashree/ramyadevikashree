@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Devikashree K 👋
 
-<!--
-**ramyadevikashree/ramyadevikashree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-# Hi, I'm Devikashree K 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech IT Student @ NITK Surathkal  
+💻 Learning C Programming, Data Structures, OS basics  
+🌐 Interested in Software, Networking and Cloud  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C Programming
+- Python (Basics)
+- HTML, CSS
+- Networking fundamentals
+- Linux basics
+
+## Projects
+- Smart Event Ticketing System
+- Knock Detector Mini Project
+
+## Currently Learning
+- Arrays in C
+- Problem solving
+- Git & GitHub
+
+📫 Reach me: ramyadevikashree1@gmail.com
